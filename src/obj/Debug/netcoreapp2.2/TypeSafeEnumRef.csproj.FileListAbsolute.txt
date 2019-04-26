@@ -1,0 +1,11 @@
+/Users/daniel/coding/typesafeenum-ref/src/bin/Debug/netcoreapp2.2/TypeSafeEnumRef.deps.json
+/Users/daniel/coding/typesafeenum-ref/src/bin/Debug/netcoreapp2.2/TypeSafeEnumRef.runtimeconfig.json
+/Users/daniel/coding/typesafeenum-ref/src/bin/Debug/netcoreapp2.2/TypeSafeEnumRef.runtimeconfig.dev.json
+/Users/daniel/coding/typesafeenum-ref/src/bin/Debug/netcoreapp2.2/TypeSafeEnumRef.dll
+/Users/daniel/coding/typesafeenum-ref/src/bin/Debug/netcoreapp2.2/TypeSafeEnumRef.pdb
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.csprojAssemblyReference.cache
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.csproj.CoreCompileInputs.cache
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.AssemblyInfoInputs.cache
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.AssemblyInfo.cs
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.dll
+/Users/daniel/coding/typesafeenum-ref/src/obj/Debug/netcoreapp2.2/TypeSafeEnumRef.pdb
